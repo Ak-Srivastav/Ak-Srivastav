@@ -55,10 +55,10 @@
 ## Github Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ak-Srivastav&show_icons=true&hide_border=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Srivastav&hide_border=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ak-Srivastav&show_icons=true&hide_border=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-Srivastav&hide_border=true&theme=jolly" />
 </p>
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Srivastav&layout=compact&theme=jolly&hide=jupyter%20notebook" />
+	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-Srivastav&layout=compact&theme=jolly&hide=jupyter%20notebook" />
 </p>
 
