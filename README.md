@@ -5,13 +5,9 @@
 ![](https://komarev.com/ghpvc/?username=Ak-Srivastav)
 
 
-<!-- 
-- 🌱 I’m currently learning **Bash & Databases**
+- 🌱 I’m currently learning **Go & Angular**
 
-- 💬 Ask me about **MySQL, DSA**
-
-- 📫 How to reach me **amitkumar2003.edu@gmail.com**
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
+- 💬 Ask me about **Problem Solving, Design Principles**
 
 ## Tech Stacks
 
