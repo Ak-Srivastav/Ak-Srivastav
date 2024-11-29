@@ -1,6 +1,6 @@
 <p align="center"></p>
 <h1 align="center">Hello Everyone, I am Amitkumar Srivastav 👋</h1>
-<h3 align="center">Web developer | Competitive Programmer | Final Year at NIT Trichy</h3>
+<h3 align="center">Backend Developer | Competitive Programmer | Final Year at NIT Trichy</h3>
   
 ![](https://komarev.com/ghpvc/?username=Ak-Srivastav)
 
