@@ -93,13 +93,14 @@
 <a href="mailto:amit.edu@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"></a>
 <a href="mailto:amitkumar2003.edu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/amitkumar-srivastav-a448571b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100074399964674"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/ak_srivastav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </p>
 
-  
+
+<!--div>
 ## Github Stats
 
+<a href="https://www.facebook.com/profile.php?id=100074399964674"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/ak_srivastav_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ak-Srivastav&show_icons=true&hide_border=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-Srivastav&hide_border=true&theme=jolly" />
@@ -107,4 +108,4 @@
 <p align="center">
 	<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-Srivastav&layout=compact&theme=jolly&hide=jupyter%20notebook" />
 </p>
-
+<div-->
