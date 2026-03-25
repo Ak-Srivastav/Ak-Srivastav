@@ -1,6 +1,6 @@
 <p align="center"></p>
 <h1 align="center">Hey folks, This is Amitkumar 👋</h1>
-<h3 align="center">Software Engineer @ Fi.Money | Competitive Programmer | Alumnus, NIT Trichy</h3>
+<h3 align="center">Software Engineer @ CRED | Competitive Programmer | Alumnus, NIT Trichy</h3>
   
 ![](https://komarev.com/ghpvc/?username=Ak-Srivastav)
 
